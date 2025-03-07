@@ -74,6 +74,7 @@ header {
   display: flex;
   min-width: 200px;
   justify-content: space-evenly;
+  margin-top: 22px;
 }
 
 .action_container {
