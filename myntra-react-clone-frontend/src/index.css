@@ -114,37 +114,6 @@ header {
   width: 250px;
 }
 
-.footer_container {
-  padding: 30px 0px 40px 0px;
-  background: #FAFBFC;
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.footer_column {
-  display: flex;
-  flex-direction: column;
-}
-
-.footer_column h3 {
-  color: #282c3f;
-  font-size: 14px;
-  margin-bottom: 25px;
-}
-
-.footer_column a {
-  color: #696b79;
-  font-size: 15px;
-  text-decoration: none;
-  padding-bottom: 5px;
-}
-
-.copyright {
-  color: #94969f;
-  text-align: end;
-  padding: 15px;
-}
-
 .items-container {
   width: 80%;
   margin: 40px 10%;
@@ -383,72 +352,90 @@ a.action_container:link {
   margin: 100px 0;
 }
 
+/* Footer Section */
+
 .footer_container {
   padding: 30px 0px 40px 0px;
   background: #FAFBFC;
   display: flex;
   justify-content: space-evenly;
 }
-.footer_coloumn {
+.footer_column {
   display: flex;
   flex-direction: column;
 }
-.footer_coloumn h3 {
+.footer_column h3 {
   color: #282c3f;
-  font-size: 12px;
-  margin-top: 20px;
-  margin-bottom: 25px;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 19px 0 25px;
 }
-.footer_coloumn a {
+.footer_column a {
   color: #696b79;
   font-size: 15px;
   text-decoration: none;
   padding-bottom: 5px;
 }
-.downloadlink_container {
-  display: inline-block;
-}
-.download_links {
+.download_links a img {
   margin-right: 10px;
   height: 42px;
 }
-.keepin_touch {
-  font-size: 12px;
-  margin-bottom: 10px;
-  font-weight: 700;
-  margin-top: 20px;
-}
-.social_icon {
+
+.social_media a img {
+  margin-right: 10px;
+  width: 20px;
   height: 20px;
-  margin-right: 15px;
+}
+
+.desktop_section {
+  margin: 15px 0 30px;
+  color: #696b79;
+  display: flex;
+}
+.desktop_original {
+  margin-left: -10px;
+  margin-right: 10px;
+  width: 47.5px;
+  height: 40px;
+}
+.desktop_section .desktop_original img {
+  width: 48px; 
+  height: 40px;
+}
+strong {
+  color: #282c3f;
+  font-weight: 700;
+}
+.desktop_return {
+  margin-left: -10px;
+  margin-right: 10px;
+  width: 47.5px;
+  height: 40px;
+}
+.desktop_section .desktop_return img {
+  width: 48px; 
+  height: 40px;
 }
 .info_section {
   display: flex;
-  justify-content: space-between;
-  width: 100%;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  justify-content: space-evenly;
+  margin: 50px 75px 30px 75px;
 }
 .contact {
-  font-size: 16px;
-  color: #696b79;
+   font-size: 16px;
+   color: #94969f;
 }
-.contact>a {
-  text-decoration: none;
-  font-weight: 700;
-  color: #526cd0;
+.contact a {
+   text-decoration: none;
+   font-weight: 700;
+   color: #526cd0;
 }
-.copywrite {
-  font-size: 16px;
-  color: #94969f;
-  margin-left: 100px;
-  text-align: end;
+.copyright {
+   font-size: 16px;
+   color: #94969f;
 }
-.flipkart {
-  margin-left: 100px;
-}
-.flipkart>a {
-  font-size: 16px;
-  color: #94969f;
-  text-decoration: none;
+.flipcart a {
+   text-decoration: none;
+   font-size: 16px;
+   color: #94969f;
 }
