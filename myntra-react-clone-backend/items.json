@@ -94,6 +94,102 @@
         "return_period": 14,
         "delivery_date": "10 Oct 2023",
         "rating": { "stars": 4.2, "count": 5200 }
+      },
+      {
+        "id": "009",
+        "image": "images/9.jpg",
+        "company": "Indo Era",
+        "item_name": "Embroidered Kurta Set",
+        "original_price": 7999,
+        "current_price": 1749,
+        "discount_percentage": 45,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.3, "count": 5500 }
+      },
+      {
+        "id": "010",
+        "image": "images/10.jpg",
+        "company": "kasee",
+        "item_name": "Beads and Stones Saree",
+        "original_price": 7163,
+        "current_price": 1250,
+        "discount_percentage": 35,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.4, "count": 4000 }
+      },
+      {
+        "id": "011",
+        "image": "images/11.jpg",
+        "company": "KALINI",
+        "item_name": "High-Slit Kurta",
+        "original_price": 499,
+        "current_price": 2499,
+        "discount_percentage": 75,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.3, "count": 5800 }
+      },
+      {
+        "id": "012",
+        "image": "images/12.jpg",
+        "company": "Rubans",
+        "item_name": "2Pc 22K Gold-Plated Bangles",
+        "original_price": 2200,
+        "current_price": 726,
+        "discount_percentage": 65,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.1, "count": 2800 }
+      },
+      {
+        "id": "013",
+        "image": "images/13.jpg",
+        "company": "HRX by Hrithik Roshan",
+        "item_name": "On-the-Go Sweatshirt",
+        "original_price": 543,
+        "current_price": 1699,
+        "discount_percentage": 85,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 3.6, "count": 1800 }
+      },
+      {
+        "id": "014",
+        "image": "images/14.jpg",
+        "company": "Levis",
+        "item_name": "Men 65504 Skinny Fit Jeans",
+        "original_price": 1268,
+        "current_price": 2699,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 3.8, "count": 3870 }
+      },
+      {
+        "id": "015",
+        "image": "images/15.jpg",
+        "company": "Mast & Harbour",
+        "item_name": "Slip On Comfort Sandals",
+        "original_price": 749,
+        "current_price": 2999,
+        "discount_percentage": 75,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.5, "count": 2250 }
+      },
+      {
+        "id": "016",
+        "image": "images/16.jpg",
+        "company": "Boult",
+        "item_name": "Drift+ Chrome Smart Watches",
+        "original_price": 1299,
+        "current_price": 8499,
+        "discount_percentage": 55,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4, "count": 1500 }
       }
     ]
   ]
